@@ -1,0 +1,6 @@
+JEF SMOKE — VERSÃO 9
+Protótipo demonstrativo em HTML. Abra o arquivo index.html em um navegador.
+Ajustes: removido o filtro vazio de Sobremesas; Entradas permanece apenas com Burrata; corrigida a URL da imagem do Risotto Funghi.
+As imagens são meramente ilustrativas. Fotos, preços, itens, promoções e avaliações devem ser confirmados pelo restaurante antes de qualquer publicação.
+
+A imagem do Risotto Funghi está incluída localmente no arquivo risotto-funghi.jpg; mantenha esse arquivo na mesma pasta do index.html.
